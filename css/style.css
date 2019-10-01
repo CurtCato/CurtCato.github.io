@@ -420,13 +420,13 @@ img.svg{
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
 .arlo_tm_hero_header_wrap .image_wrap{
-	width: 200px;
-	height: 200px;
+	width: 300px;
+	height: 300px;
 	display: inline-block;
 	margin-bottom: 38px;
 	position: relative;
 }
-.arlo_tm_hero_header_wrap .image_wrap img{min-width: 100%;}
+.arlo_tm_hero_header_wrap .image_wrap img{min-width: 10%;}
 .arlo_tm_hero_header_wrap .image_wrap .main{
 	position: absolute;
     top: 8px;
